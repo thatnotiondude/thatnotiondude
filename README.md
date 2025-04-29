@@ -1,7 +1,3 @@
-Certainly! Here's a sample GitHub README file for your profile:
-
----
-
 # Hi there, I'm That Notion Dude! 👋
 
 Welcome to my GitHub repository dedicated to all things Notion! Here, you'll find a collection of widgets, tools, and resources I've created to enhance your Notion experience.
